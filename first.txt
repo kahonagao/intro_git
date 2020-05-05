@@ -4,3 +4,4 @@ gitの練習
 ・git commit
 ・git remove
 git sratus
+・git diff
