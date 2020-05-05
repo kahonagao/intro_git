@@ -2,3 +2,4 @@ gitの練習
 基本です
 ・git add
 ・git commit
+・git remove
